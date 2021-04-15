@@ -1,14 +1,26 @@
 {
-  "name": "note-taker",
+  "name": "09_notetaker",
   "version": "1.0.0",
-  "description": "",
+  "description": "* [Acceptance Criteria](#acceptancecriteria)\r * [Installation](#installation)\r * [Project Status](#projectstatus)\r * [License](#license)\r * [Deployment](#deployment)\r * [Usage](#usage)\r * [Preview of the App](#previewApp)",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obi1002/09_NoteTaker.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obi1002/09_NoteTaker/issues"
+  },
+  "homepage": "https://github.com/Obi1002/09_NoteTaker#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
   }
 }
