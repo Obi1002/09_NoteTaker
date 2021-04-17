@@ -1,27 +1,27 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
+        "title": "Note Taker 1",
+        "text": "This is the first Note.",
         "id": "afd7b5ac-20bb-46e2-be51-c4c19914a266"
     },
     {
-        "title": "Learn mySQL",
-        "text": "learn more about database design and architecture. ",
+        "title": "Note Taker 2",
+        "text": "Try to enter a new note.",
         "id": "078e898e-bf07-4781-8322-1c420c5dced9"
     },
     {
-        "title": "Lean Docker Deployments",
-        "text": "Research and Review Docker Deployments with Heroku",
+        "title": "Note Taker 3",
+        "text": "Deploy to Heroku",
         "id": "f9964964-6cf2-4ed8-8400-7c5c01e3bc66"
     },
     {
-        "title": "new",
-        "text": "yes",
-        "id": "afbd4d00-9eff-11eb-83a5-98b94a777e5c"
+        "title": "Note Taker 4",
+        "text": "This works!",
+        "id": "02cf0f00-9f01-11eb-88bf-2b841a85ea56"
     },
     {
-        "title": "this is newwwwwww",
-        "text": "you did itttt",
-        "id": "b90f2a40-9eff-11eb-856c-15655426d7ba"
+        "title": "Note Taker 5",
+        "text": "Homework COMPLETE!",
+        "id": "0f8a5600-9f01-11eb-89cf-66b4ba549a9a"
     }
 ]
