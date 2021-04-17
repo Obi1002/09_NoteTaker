@@ -37,13 +37,13 @@ This project was completed on April 17, 2021.
 MIT
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sdca/advdv)
 
-<!-- # Deployment
-[Link](https://drive.google.com/file/d/11hiw28E-KHDNBX58bvhnvr1Hp6YyPd5D/view?usp=sharing) -->
+# Deployment
+[Link](https://hidden-chamber-92909.herokuapp.com/)
 
-<!-- # Usage
-When you open the terminal, you will be prompted to enter some information about your team.  Once you enter that information you will webpage will generate with the team's profile and information. This will allow a quick view of the information of each team member.   -->
+# Usage
+When you open the html, you will be on a landing page to enter the note taking site.  Once you click 'Enter', you will be able to: view existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column AND save the new note you have entered and it appears in the left-hand column with the other existing notes.
 
 <!-- Add screenShot -->
-<!-- # Preview of the App
+# Preview of the App
 * This is how the app looks
-![TeamProfileGenerator Screenshot](./assets\images\teamprofilegenerator.PNG) (https://drive.google.com/file/d/11hiw28E-KHDNBX58bvhnvr1Hp6YyPd5D/view?usp=sharing) -->
+![NoteTakingApp Screenshot](./Assets\NoteTakerApp.PNG)
